@@ -1,1 +1,1 @@
-# News_ScrapingHW
+# CrossFitNews_ScrapingHW
